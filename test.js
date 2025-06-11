@@ -1,2 +1,2 @@
 console.log("Hello, World!");
-// node test.jsで実行
+// node test.jsで実行したよ
